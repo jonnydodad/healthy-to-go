@@ -46,5 +46,5 @@ app.post("/new", function(req,res){
 });
 
 app.listen(process.env.PORT, process.env.IP, function(){
-    console.log("food app begungen");
+    console.log("food app begungenn");
 })
