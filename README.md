@@ -1,3 +1,3 @@
 # healthy-to-go
-healthy food google map api
+healthy brooklyn food google maps api
 NEEDS API KEY!!
